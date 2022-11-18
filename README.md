@@ -4,4 +4,3 @@ This is cwc's first test md document.
 I'm a shy boy, not cool!  
 Just know C, Python, R, MatLab, linux etc.  
 But, be cool!Let's study.  
-## R study  
